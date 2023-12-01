@@ -1,5 +1,3 @@
-package MyFungsi;
-
 public class TerimaKasih_26 {
 
     public static void ucapanTerimakasih() {
